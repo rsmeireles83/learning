@@ -1,0 +1,10 @@
+git init						start a new repository
+git add .						add current files to next commit
+git status						check the current git repository status
+git commit - m "commit message"				start a new commit with a message
+git push 						send updates to a cloud on the branch currently ready
+git branch						allow to list and preview wich branch is currently ready
+git checkout branch-name				allow changing to a new branch
+git checkout -b name-origin-branch name-new-branch	allow changing and to create a new branch based in other
+git merge "branch that received another branch"		allow to do a merge from active branch with another branch
+git pull						update the currently ready branch 
