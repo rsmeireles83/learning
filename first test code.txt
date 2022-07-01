@@ -1,3 +1,14 @@
 Only testing my file on git.
 I keep changing this file.
 Adding new line on the file.
+---------
+Homework
+---------
+1 - git pull the main branch 
+2 - generate a new branch from main branch
+3 - work and add new functionalities on the created branch
+4 - conclude the task on the temporary branch
+5 - git checkout on main branch
+6 - git pull
+7 - merge the temporary branch code with main branch also testing
+8 - git push on main branch
